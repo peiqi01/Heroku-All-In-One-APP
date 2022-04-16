@@ -1,3 +1,10 @@
+
+
+https://dashboard.heroku.com/new?template=https://github.com/peiqi01/Heroku-All-In-One-APP
+
+
+
+
 ## 鸣谢
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)  依靠来自P3TERX大佬的Aria2脚本，实现了Aria2下载完成自动触发Rclone上传。
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)  启发了本项目的总体思路，解决了Heroku使用变量导入Rclone配置文件的难题。
