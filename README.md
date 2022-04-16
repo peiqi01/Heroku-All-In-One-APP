@@ -1,6 +1,6 @@
 
 
-https://dashboard.heroku.com/new?template=https://github.com/peiqi01/Heroku-All-In-One-APP
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/peiqi01/Heroku-All-In-One-APP)
 
 
 
